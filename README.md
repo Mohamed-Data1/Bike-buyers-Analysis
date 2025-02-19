@@ -19,10 +19,5 @@ This project analyzes bike purchase patterns based on customer demographics such
 - **Microsoft Excel** (Pivot Tables, Charts, and Slicers)  
 - **Data Cleaning & Transformation**  
 
-## 📈 How to Use  
-1. Open the **Excel file** and navigate to the **dashboard** tab.  
-2. Use the slicers to filter data based on different criteria (e.g., marital status, education, region).  
-3. Observe trends and insights to understand bike sales behavior.  
-
 ## 📢 About the Author  
 This project was created by **[Your Name]** as a data analysis exercise to visualize customer purchasing behavior using Excel dashboards.  
